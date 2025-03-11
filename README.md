@@ -1,4 +1,4 @@
-# -CoT-Compression
+# CoT-Compression
 # 👀 Introduction
 # 📒 Table of Contents
 - TokenSkip [[GitHub]](https://github.com/hemingkx/TokenSkip)
