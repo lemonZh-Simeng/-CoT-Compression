@@ -1,5 +1,6 @@
 # CoT-Compression
 # 👀 Introduction
+近年来，大语言模型（LLMs）通过引入思维链（Chain-of-Thought, CoT）推理显著提升了复杂任务的解决能力，例如数学推理和逻辑推理。然而，CoT方法通常依赖于生成冗长的中间推理步骤，导致计算开销激增、推理延迟增加，并阻碍其在资源受限场景（如边缘设备或实时系统）中的应用。为解决这一矛盾，研究者提出了CoT压缩技术，旨在通过优化推理路径、提炼关键步骤或动态调整计算复杂度，在保持模型性能的前提下大幅降低推理成本。因此，我们维护一个最新的 GitHub 仓库，以跟踪这一快速发展领域的最新进展。
 # 📒 Table of Contents
 - TokenSkip [[GitHub]](https://github.com/hemingkx/TokenSkip)
 - Rho-1 [[GitHub]](https://github.com/microsoft/rho)
