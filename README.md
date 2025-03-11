@@ -3,6 +3,7 @@
 # 📒 Table of Contents
 - TokenSkip [[GitHub]](https://github.com/hemingkx/TokenSkip)
 - Rho-1 [[GitHub]](https://github.com/microsoft/rho)
+- SelectiveDPO(Principled Data Selection for Alignment: The Hidden Risks of Difficult Examples) [[GitHub]](https://github.com/glorgao/SelectiveDPO)
 - CoT-Valve: Length-Compressible Chain-of-Thought Tuning [[pdf]](https://arxiv.org/abs/2502.09601)
 - Chain of Draft: Thinking Faster by Writing Less [[pdf]](https://arxiv.org/abs/2502.18600)
 - LightThinker: Thinking Step-by-Step Compression [[pdf]](https://arxiv.org/abs/2502.15589)
@@ -10,8 +11,6 @@
 - When More is Less: Understanding Chain-of-Thought Length in LLMs [[pdf]](https://arxiv.org/abs/2502.07266)
 - Dynamic Chain-of-Thought: Towards Adaptive Deep Reasoning [[pdf]](https://arxiv.org/abs/2502.10428)
 - Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models [[pdf]](https://arxiv.org/abs/2502.13260)
-- Principled Data Selection for Alignment: The Hidden Risks of Difficult Examples [[pdf]](https://arxiv.org/abs/2502.09650)
-- 
 - Distilling System 2 into System 1 [[pdf]](https://arxiv.org/abs/2502.10428)
 - Efficiently Serving LLM Reasoning Programs with Certaindex [[pdf]](https://arxiv.org/abs/2412.20993)
 - Fast Best-of-N Decoding via Speculative Rejection [[pdf]](https://arxiv.org/abs/2410.20290)
