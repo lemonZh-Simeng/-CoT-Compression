@@ -1,5 +1,10 @@
 # CoT-Compression
+- v1：增加了xx
+
+
+
 # 👀 Introduction
+
 In recent years, Large Language Models (LLMs) have significantly improved the solution capabilities of complex tasks, such as mathematical reasoning and logical reasoning, by introducing Chain-of-Thought (CoT) reasoning.However, CoT approaches typically rely on generating lengthy intermediate reasoning steps, leading to a surge in computational overhead, increased reasoning latency, and hindering their application in resource-constrained scenarios such as edge devices or real-time systems.To address this contradiction, researchers have proposed CoT compression techniques that aim to significantly reduce the inference cost while maintaining the model performance by optimising the inference paths, refining the key steps, or dynamically adjusting the computational complexity.Therefore, we maintain an up-to-date GitHub repository to track the latest progress in this rapidly evolving field.
 # 📒 Table of Contents
 - [Part 1: 逻辑推理思维链优化与压缩](#思维链优化与压缩)
