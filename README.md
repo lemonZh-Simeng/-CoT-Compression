@@ -1,5 +1,6 @@
 # CoT-Compression
 - v1：增加了xx
+- v2：xxx
 
 
 
